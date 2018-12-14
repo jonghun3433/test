@@ -1,0 +1,22 @@
+[server]
+service=http://localhost:8080/ixeb-manager/service.manager.ixeb
+admin=http://localhost:8080/ixeb-manager/admin.html
+
+[screen]
+width=1280
+height=1024
+
+[grid]
+x=10
+y=10
+
+[screenDefine]
+path=C:/iXeb_win64/workspace/testgit/ScreenDefine
+format=%FILENAME%.xlsx
+
+[General]
+openedFileList=C:/iXeb_win64/workspace/testgit/test.html, C:/iXeb_win64/workspace/testgit/test2.html
+activeFile=C:/iXeb_win64/workspace/testgit/test.html
+
+[recent]
+files=C:/iXeb_win64/workspace/testgit/test.html, C:/iXeb_win64/workspace/testgit/test2.html
